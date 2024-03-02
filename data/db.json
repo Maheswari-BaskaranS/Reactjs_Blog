@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "1st post",
+      "datetime": "July 16, 2021 11:47:39 AM",
+      "body": "Glad to test the 1st post"
+    },
+    {
+      "id": "2",
+      "title": "Second post",
+      "datetime": "July 16, 2021 11:47:48 AM",
+      "body": "Testing 2nd post sucessfull :)"
+    },
+    {
+      "id": "3",
+      "title": "Number Three",
+      "datetime": "July 16, 2021 11:48:01 AM",
+      "body": "Third post... "
+    },
+    {
+      "id": "4",
+      "title": "Testing a 4th post",
+      "datetime": "August 09, 2021 4:44:22 PM",
+      "body": "Some more testing words"
+    },
+    {
+      "id": "41",
+      "title": "happy",
+      "datetime": "March 02, 2024 8:58:57 PM",
+      "body": "i am happy"
+    }
+  ]
+}
